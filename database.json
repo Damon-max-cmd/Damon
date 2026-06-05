@@ -1,0 +1,83 @@
+{
+  "emails": [
+    {
+      "user": "al2759009@gmail.com",
+      "pass": "nzvynvxjeslozhxk",
+      "cooldownUntil": null
+    },
+    {
+      "user": "ums2759009@gmail.com",
+      "pass": "tdimnilalijbecjk",
+      "cooldownUntil": null
+    },
+    {
+      "user": "stefan2759009@gmail.com",
+      "pass": "fcipxhltltruqhau",
+      "cooldownUntil": null
+    },
+    {
+      "user": "ad2759009@gmail.com",
+      "pass": "dwridvddtyvcvzav",
+      "cooldownUntil": null
+    },
+    {
+      "user": "o96962877@gmail.com",
+      "pass": "zifqnmqoteflosdi",
+      "cooldownUntil": null
+    },
+    {
+      "user": "dq2759009@gmail.com",
+      "pass": "dtbklthahxikzxgs",
+      "cooldownUntil": null
+    },
+    {
+      "user": "dode2759009@gmail.com",
+      "pass": "fjniiqlexwdthwgc",
+      "cooldownUntil": null
+    },
+    {
+      "user": "grbal275@gmail.com",
+      "pass": "klqwlbsalhxcpiqh",
+      "cooldownUntil": null
+    },
+    {
+      "user": "damon2759009@gmail.com",
+      "pass": "lveeyfvfdnrsgzzs",
+      "cooldownUntil": null
+    },
+    {
+      "user": "ts2759009@gmail.com",
+      "pass": "itzjaybotwygclwc",
+      "cooldownUntil": null
+    }
+  ],
+  "maintenance": false,
+  "channel": "@damon_email",
+  "users": {
+    "6234126115": {
+      "dailyCount": 0,
+      "lastReset": "Sun May 03 2026",
+      "isVip": false,
+      "isAdmin": false
+    },
+    "7167892124": {
+      "dailyCount": 0,
+      "lastReset": "Sat May 02 2026",
+      "isVip": false,
+      "isAdmin": false
+    },
+    "8577641902": {
+      "dailyCount": 2,
+      "lastReset": "Sun May 03 2026",
+      "isVip": false,
+      "isAdmin": false
+    },
+    "7529348406": {
+      "dailyCount": 0,
+      "lastReset": "Sun May 03 2026",
+      "isVip": false,
+      "isAdmin": false
+    }
+  },
+  "lastUsedEmailIndex": 7
+}
